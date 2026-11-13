@@ -659,5 +659,3 @@ Eine Quota-Reduzierung löscht vorhandene Dateien nicht automatisch. Eine zu nie
 ## Lizenz
 
 Diese Anleitung kann als Grundlage für eigene Home-Lab- und Proxmox-Dokumentationen verwendet und angepasst werden.
-
-Für eine öffentliche Veröffentlichung empfiehlt sich eine explizite Repository-Lizenz, beispielsweise MIT oder CC BY 4.0.
