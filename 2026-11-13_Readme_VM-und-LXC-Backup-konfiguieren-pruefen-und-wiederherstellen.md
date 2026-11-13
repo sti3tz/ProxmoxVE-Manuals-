@@ -792,5 +792,3 @@ Zusätzlich sollten unveränderliche oder offline aufbewahrte Sicherungen erwoge
 ## Lizenz
 
 Diese Anleitung kann als Grundlage für eigene Proxmox- und Home-Lab-Dokumentationen verwendet und angepasst werden.
-
-Für eine öffentliche Veröffentlichung empfiehlt sich eine explizite Repository-Lizenz, beispielsweise MIT oder CC BY 4.0.
